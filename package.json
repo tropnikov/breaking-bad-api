@@ -1,6 +1,7 @@
 {
   "name": "breaking-bad-api",
   "version": "0.1.0",
+  "homepage": "https://tropnikov.github.io/breaking-bad-api",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
